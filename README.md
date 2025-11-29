@@ -196,6 +196,29 @@ docker ps
 
 
 
+Project Snippets:
+
+<img width="1919" height="910" alt="Screenshot 2025-11-30 013019" src="https://github.com/user-attachments/assets/9e1f7e52-dc54-48f0-aba0-17604e428ce3" />
+
+<img width="1919" height="907" alt="Screenshot 2025-11-30 013132" src="https://github.com/user-attachments/assets/adadd6f0-92f8-45ae-9dbc-873cd29c4cb2" />
+
+<img width="1902" height="907" alt="Screenshot 2025-11-30 013214" src="https://github.com/user-attachments/assets/9a3d1bfc-0878-4a09-914b-45b830e5b656" />
+
+<img width="1902" height="908" alt="Screenshot 2025-11-30 013255" src="https://github.com/user-attachments/assets/87e4052e-3acf-4e60-a460-e11d55dd28f7" />
+
+<img width="1898" height="908" alt="Screenshot 2025-11-30 013327" src="https://github.com/user-attachments/assets/e83292ef-78a4-4e5a-8e54-7c0652c1e51b" />
+
+<img width="1900" height="907" alt="Screenshot 2025-11-30 013410" src="https://github.com/user-attachments/assets/8fa83072-a2b9-4689-8e0c-f2770715815b" />
+
+<img width="1898" height="912" alt="Screenshot 2025-11-30 013446" src="https://github.com/user-attachments/assets/01563527-88f1-494a-a94d-85f4c8911735" />
+
+<img width="1900" height="904" alt="Screenshot 2025-11-30 013521" src="https://github.com/user-attachments/assets/18daf57c-12ef-490c-aa0e-5a920a6db005" />
+
+<img width="1919" height="897" alt="Screenshot 2025-11-30 013558" src="https://github.com/user-attachments/assets/a128ef56-31bf-40d8-9494-04788083d354" />
+
+<img width="1904" height="904" alt="Screenshot 2025-11-30 013627" src="https://github.com/user-attachments/assets/039d228c-62c9-43a7-b11a-0c16d404a37b" />
+
+
 
 
 
