@@ -77,7 +77,6 @@ Admin features:
 ---
 
 
----
 
 # 🔌 API Endpoints
 
@@ -139,35 +138,48 @@ Run in project root:
 docker-compose up --build -d
 
 
-##Check Containers
+Check Containers -
+
 docker ps
 
 
 
 🛠 Local Development Setup:
 
-1. Clone Repository
+1. Clone Repository -
+   
    git clone https://github.com/yourname/TaskManager.git
+   
    cd TaskManager
+
+
 
 
 
 ⚙️ Backend Setup:
 
 1. Install Dependencies -
+   
    cd backend
+   
    npm install
 
 
-2. Create .env file having -
+
+3. Create .env file having -
+
     PORT=5000
     MONGO_URI=your_mongodb_atlas_url
     JWT_SECRET=taskappsecret
     JWT_EXPIRES_IN=1d
 
 
-3. Start backend -
+
+4. Start backend -
+   
    npm run dev
+
+
 
 
 
@@ -178,29 +190,13 @@ docker ps
    npm install
 
 
+
 2. Start frontend
    npm start
 
 
 
-📦 Scalability Notes
 
-The system is designed with scalability in mind:
 
-> MongoDB Atlas → horizontal scaling
-
-> API versioning
-
-> Can split into microservices
-
-> Load balancing via Nginx / AWS
-
-> Redis caching for fast authentication
-
-> Docker allows multi-container orchestration
-
-> Rate limiting (DDOS protection)
-
-> Modular backend architecture
 
 
